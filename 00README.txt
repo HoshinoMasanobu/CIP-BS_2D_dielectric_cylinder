@@ -1,4 +1,3 @@
-dielectric_scatterer.epsは解析状況の模式図
 Variables.txtでパラメータ設定
 CIPK.exeで計算実行
 

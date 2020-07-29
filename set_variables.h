@@ -4,7 +4,7 @@
 #include <string>
 #include <fstream>
 #include <cmath>
-
+ 
 constexpr double 
 c { 3.0e8 },//光速
   mu { 4.0 * M_PI *1.0e-7 },//μ、透磁率
