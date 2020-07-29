@@ -1,0 +1,20 @@
+K 1
+NT 2000
+RX 5.0
+RY 5.0
+C 0.4
+NX1 10
+NX2 10
+NX3 10
+NY1 10
+NY2 10
+NY3 10
+FT_x_start 0.5
+FT_x_end 4.5
+FT_y_start 0.5
+FT_y_end 4.5
+
+
+
+
+
